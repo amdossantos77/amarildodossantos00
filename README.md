@@ -1,9 +1,11 @@
 # Hi, I'm Amarildo 👋
 
-Backend Engineer in training · Systems thinker · 42 School Luanda
+Backend Engineer in training · Fullstack Developer · 42 School Luanda
 
-I build backend systems with a focus on reliability, performance, and clean design.
-My foundation in C and C++ gives me a strong mental model of how computers work at a low level — I apply that thinking to everything I build.
+I build fullstack systems with a strong focus on backend — reliability, 
+performance, and clean design. My foundation in C and C++ gives me a strong 
+mental model of how computers work at a low level — I apply that thinking to 
+everything I build.
 
 Currently deepening my knowledge of Java, distributed systems, and cloud infrastructure, working towards building backend systems at scale.
 
